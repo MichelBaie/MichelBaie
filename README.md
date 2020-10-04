@@ -7,8 +7,10 @@ Depuis que j'ai fait l'acquisition d'un serveur chez moi, j'ai pu pratiquer Prox
 Chui énormément actif sur Discord, je passe beaucoup trop de temps en vocal donc viens me voir :3
 
 Mon [Bitwarden](https://passpartout.creepercreep.fr)
-
-Un [Gitea](https://git.justaven.xyz/)
+Mon [Gitea](https://git.creepercreep.fr)
+Mon [Nextcloud](https://cloud.creepercreep.fr)
+Mon [HasteBin](https://git.creepercreep.fr)
+Mon [Jirafeau](https://file.creepercreep.fr)
 
 
 
