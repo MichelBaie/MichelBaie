@@ -12,10 +12,10 @@ Mon [Nextcloud](https://cloud.creepercreep.fr)
 Mon [HasteBin](https://git.creepercreep.fr)
 Mon [Jirafeau](https://file.creepercreep.fr)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Michelbaie&count_private=true&show_icons=true)]()
 Suis-moi sur mes réseaux sociaux : 
 
 - [Twitter](https://twitter.com/CreeperBaie)
 - [Youtube](https://www.youtube.com/channel/UC9igM_yQBymB1fb1GmIMNpQ?view_as=subscriber)
 - [Discord](https://discord.bio/p/MichelBaie)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Michelbaie&count_private=true&show_icons=true)]()
