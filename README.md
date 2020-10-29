@@ -9,7 +9,7 @@ Chui énormément actif sur Discord, je passe beaucoup trop de temps en vocal do
 Mon [Bitwarden](https://passpartout.creepercreep.fr)
 Mon [Gitea](https://git.creepercreep.fr)
 Mon [Nextcloud](https://cloud.creepercreep.fr)
-Mon [HasteBin](https://git.creepercreep.fr)
+Mon [HasteBin](https://paste.creepercreep.fr)
 Mon [Jirafeau](https://file.creepercreep.fr)
 
 Suis-moi sur mes réseaux sociaux : 
