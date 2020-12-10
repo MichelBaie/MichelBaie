@@ -1,6 +1,6 @@
 ## Salut !
 
-Moi c'est Tristan, j'ai 14 ans et je suis passionné niveau technologie par tout et n'importe quoi 😀
+Moi c'est Tristan, j'ai 15 ans et je suis passionné niveau technologie par tout et n'importe quoi 😀
 
 Depuis que j'ai fait l'acquisition d'un serveur chez moi, j'ai pu pratiquer Proxmox et héberger quelques services que je gère.
 
