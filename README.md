@@ -1,21 +1,18 @@
-## Salut !
+# Bienvenue !
 
-Moi c'est Tristan, j'ai 15 ans et je suis passionné niveau technologie par tout et n'importe quoi 😀
+Bienvenue sur ma **page GitHub**.
+C'est un petit fourre-tout de projets en tous genres.
 
-Depuis que j'ai fait l'acquisition d'un serveur chez moi, j'ai pu pratiquer Proxmox et héberger quelques services que je gère.
-
-Chui énormément actif sur Discord, je passe beaucoup trop de temps en vocal donc viens me voir :3
-
-Mon [Bitwarden](https://passpartout.creepercreep.fr)
-Mon [Gitea](https://git.creepercreep.fr)
-Mon [Nextcloud](https://cloud.creepercreep.fr)
-Mon [HasteBin](https://paste.creepercreep.fr)
-Mon [Jirafeau](https://file.creepercreep.fr)
-
-Suis-moi sur mes réseaux sociaux : 
-
-- [Twitter](https://twitter.com/CreeperBaie)
-- [Youtube](https://www.youtube.com/channel/UC9igM_yQBymB1fb1GmIMNpQ?view_as=subscriber)
-- [Discord](https://discord.bio/p/MichelBaie)
+#### Quelques chiffres : 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Michelbaie&count_private=true&show_icons=true)]()
+
+#### Et quelques solutions que j'auto-héberge :
+
+* [VaultWarden](https://passpartout.creepercreep.fr)
+* [Gitea](https://git.creepercreep.fr)
+* [Nextcloud](https://nextcloud.creepercreep.fr)
+* [Jirafeau](https://send.creepercreep.fr)
+
+### À bientôt sur discord 😉
+<img src="https://user-images.githubusercontent.com/39345534/122968671-1409c980-d38c-11eb-81a7-b4f11248e5c6.png" alt="DSC03449-min" style="zoom:10%;" />
