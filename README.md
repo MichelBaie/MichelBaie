@@ -7,6 +7,8 @@ C'est un petit fourre-tout de projets en tous genres.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Michelbaie&count_private=true&show_icons=true)]()
 
+[![Git Stars](https://git-stars.com/share/embed/github.svg)](https://git-stars.com/user/github)
+
 #### Et quelques solutions que j'auto-héberge :
 
 * [VaultWarden](https://passpartout.creepercreep.fr)
