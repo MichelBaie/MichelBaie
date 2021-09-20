@@ -3,7 +3,7 @@
 Bienvenue sur ma **page GitHub**.
 C'est un petit fourre-tout de projets en tous genres.
 
-#### Quelques stats Github :
+#### Quelques stats Github : 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Michelbaie&count_private=true&show_icons=true)]()
 
